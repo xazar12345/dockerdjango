@@ -1,0 +1,35 @@
+*.pyc
+__pycache__/
+stacticcdn
+.idea/
+db.sqlite3
+.idea
+media/
+staticcdn/
+.vscode/
+venv/
+env/
+devenv/
+credentials.yaml
+build/
+logs/
+kilenv/
+*.map
+.DS_Store
+.env
+.env.local
+.env.docker
+logs/
+# samana/assets/css/*.css
+# static/frontend/assets/css/*.css
+static/CACHE/
+
+# node related
+node_modules
+
+# ignoring celery files
+celerybeat-schedule
+celerybeat-schedule.db
+celerybeat.pid
+dump.rdb
+qtravels.sock.lock
