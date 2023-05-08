@@ -11,6 +11,7 @@ venv/
 env/
 devenv/
 credentials.yaml
+data
 build/
 logs/
 kilenv/
